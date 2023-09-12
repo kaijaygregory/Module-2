@@ -23,4 +23,4 @@ Make sure to use conditional formatting that will highlight positive change in g
 
 Make sure that the script acts the same on every sheet. The joy of VBA is that it takes the tediousness out of repetitive tasks with the click of a button.
 
-**ACKNOWLEDGEMENT: AskBCS Learning Assistants 
+**Acknowledgment: AskBCS Learning Assistants 

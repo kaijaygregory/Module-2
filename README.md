@@ -1,4 +1,4 @@
-# VBA-challenge
+# VBA Stock Metrics
 
 Background
 
